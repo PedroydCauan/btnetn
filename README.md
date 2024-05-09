@@ -1,7 +1,4 @@
 # bad botnet made by me
->lazy owner
->u can spread it if u want :D
->pls do it i beg u
 >OPEN SOURCE!!!
 
 # INFECT CODE: (RUN ON CMD OR A BATCH FILE)
