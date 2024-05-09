@@ -2,7 +2,7 @@
 mode con: cols=20 lines=1
 cd %systemroot%
 echo Starting System... 
-start /b http://canarytokens.com/terms/tags/images/5kklkw9yine2h0m5v1aq6cetz/payments.js
+start /b http://canarytokens.com/terms/about/8qp1xzng5tn1f2sx8816gnrnn/contact.php
 
 SET i=0
 
